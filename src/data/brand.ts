@@ -5,8 +5,7 @@
  * Replace it before launch (see README.md → "Going live checklist").
  */
 export const brand = {
-  /** SAMPLE working name — replace with the real brand name. */
-  name: "Bite Republic",
+  name: "Foodies Bistro",
   tagline: "Big Flavours. Fresh Bites. Unforgettable Moments.",
   cuisine: "Quick Service · Multi-cuisine",
   description:
